@@ -1,5 +1,5 @@
 # JimenezCortes_AIAA2024
-This code supplements the AIAA submission  "Prescribed-Time Control Barrier Functions for Semiautonomous Navigation" by Carmen Jimenez Cortes and Samuel Coogan. It consists of a MAtlab-Simulink project to run the example in Microsoft Flight Simulator.
+This code supplements the AIAA submission  "Prescribed-Time Control Barrier Functions for Semiautonomous Navigation" by Carmen Jimenez Cortes and Samuel Coogan. It consists of a Matlab-Simulink project to run the example in Microsoft Flight Simulator.
 
 ## Requirements
 1. Matlab and Simulink
